@@ -52,6 +52,6 @@ public class java12 {
                 System.out.println("3.a");
             }
         }
-
+        input.close();
     }
 }
